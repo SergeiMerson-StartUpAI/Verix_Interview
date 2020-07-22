@@ -1,0 +1,534 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+
+.vscode/settings.json
+.Archive/
+.Graphs/
+Archive/!Multiprocessing.ipynb
+Archive/1_EDA_initial_model.ipynb
+Archive/2_Xofigo_Data.ipynb
+Archive/3_Modules-Copy1.ipynb
+Archive/3_Modules.ipynb
+Archive/4_Pilot_2020-03-11.ipynb
+Archive/5_VAR_model.ipynb
+Archive/5_VAR_TF.ipynb
+Archive/7_VARMAX_Kiskali.ipynb
+Archive/7_VARMAX_Successfull_MODEL-Copy1.ipynb
+Archive/7_VARMAX_Successfull_MODEL.ipynb
+Archive/8_LSTM.ipynb
+Archive/DataFlowGraph.vsdx
+Archive/first_optimization.pkl
+Archive/main_module.py
+Archive/Model_test.ipynb
+Archive/Novartis - ARIMA.ipynb
+Archive/Novartis Test Run With updated Model.ipynb
+Archive/novartis_ARIMA.pkl
+Archive/novartis_optimal_params.pkl
+Archive/novartis_optimal_params.pkl!
+Archive/pilot_presentation_2020-03-11.pptx
+Archive/Second Presentation - 2020-03-22.pptx
+Archive/Test.py
+Archive/Untitled.ipynb
+Archive/Untitled1.ipynb
+Archive/Untitled2.ipynb
+Archive/Untitled3.ipynb
+Archive/VARMAX_Kiskali.pkl
+Archive/VARMAX_set1.pkl
+Archive/Verix - Pilot.ipynb
+Archive/verix_forecast.py
+Archive/Verix.pkl
+Archive/WorkFlow.pdf
+Archive/2020-04-02 - VARMAX implementation/data_reader.py
+Archive/2020-04-02 - VARMAX implementation/functions.py
+Archive/2020-04-02 - VARMAX implementation/main.py
+Archive/2020-04-02 - VARMAX implementation/metrics.py
+Archive/2020-04-02 - VARMAX implementation/Novartis Test Run With updated Model.ipynb
+Archive/2020-04-02 - VARMAX implementation/optimizer.py
+Archive/2020-04-02 - VARMAX implementation/predictors.py
+Archive/2020-04-02 - VARMAX implementation/VARMAX Model.ipynb
+Archive/2020-04-02 - VARMAX implementation/WorkFlow.pdf
+Archive/2020-04-02 - VARMAX implementation/Data/new_set_1.xlsx
+Archive/2020-04-02 - VARMAX implementation/Data/new_set_2.xlsx
+Archive/2020-04-02 - VARMAX implementation/Data/Novartis quantity.xlsx
+Archive/2020-04-02 - VARMAX implementation/Data/Xofigo month and terr PRDs.xlsx
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/Q91999.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAA1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAA1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAA1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAA1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAB1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAB1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAB1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAB1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAC1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAC1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAC1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAC1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAD1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAD1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAD1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAD1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAE1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAE1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAE1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAE1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAF1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAF1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAF1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAF1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAG1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAG1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAG1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QAAG1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABA1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABA1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABA1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABA1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABA1E.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABB1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABB1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABB1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABB1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABC1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABC1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABC1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABC1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABD1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABD1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABD1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABD1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABE1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABE1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABE1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABF1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABF1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABF1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABF1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QABF1E.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACA1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACA1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACA1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACA1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACB1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACB1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACB1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACB1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACC1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACC1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACC1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACC1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACD1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACD1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACD1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACD1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACE1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACE1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACE1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACE1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACE1E.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACF1A.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACF1B.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACF1C.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACF1D.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/Novartis/QACF1E.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J011701.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J011702.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J011703.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J011707.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J011708.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J011709.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J021706.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J021713.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J021714.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J021716.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J021717.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J021718.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031715.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031719.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031720.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031721.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031722.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031723.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031725.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J031727.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J041728.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J041729.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J041730.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J041734.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J041736.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J041740.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J051724.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J051735.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J051737.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J051741.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J051742.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J051743.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J051744.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J061747.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J061748.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J061752.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J061753.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J061756.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J061758.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J061761.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J071733.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J071749.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J071751.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J071755.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J071757.png
+Archive/2020-04-02 - VARMAX implementation/Graphs/VARMAX/VARMAX-J071760.png
+Archive/files_to_send/2020-04-02 - VARMAX implementation.zip
+Archive/files_to_send/BugFix.zip
+Archive/files_to_send/Novartis.zip
+Graphs/Novartis/Q91999.png
+Graphs/Novartis/QAAA1A.png
+Graphs/Novartis/QAAA1B.png
+Graphs/Novartis/QAAA1C.png
+Graphs/Novartis/QAAA1D.png
+Graphs/Novartis/QAAB1A.png
+Graphs/Novartis/QAAB1B.png
+Graphs/Novartis/QAAB1C.png
+Graphs/Novartis/QAAB1D.png
+Graphs/Novartis/QAAC1A.png
+Graphs/Novartis/QAAC1B.png
+Graphs/Novartis/QAAC1C.png
+Graphs/Novartis/QAAC1D.png
+Graphs/Novartis/QAAD1A.png
+Graphs/Novartis/QAAD1B.png
+Graphs/Novartis/QAAD1C.png
+Graphs/Novartis/QAAD1D.png
+Graphs/Novartis/QAAE1A.png
+Graphs/Novartis/QAAE1B.png
+Graphs/Novartis/QAAE1C.png
+Graphs/Novartis/QAAE1D.png
+Graphs/Novartis/QAAF1A.png
+Graphs/Novartis/QAAF1B.png
+Graphs/Novartis/QAAF1C.png
+Graphs/Novartis/QAAF1D.png
+Graphs/Novartis/QAAG1A.png
+Graphs/Novartis/QAAG1B.png
+Graphs/Novartis/QAAG1C.png
+Graphs/Novartis/QAAG1D.png
+Graphs/Novartis/QABA1A.png
+Graphs/Novartis/QABA1B.png
+Graphs/Novartis/QABA1C.png
+Graphs/Novartis/QABA1D.png
+Graphs/Novartis/QABA1E.png
+Graphs/Novartis/QABB1A.png
+Graphs/Novartis/QABB1B.png
+Graphs/Novartis/QABB1C.png
+Graphs/Novartis/QABB1D.png
+Graphs/Novartis/QABC1A.png
+Graphs/Novartis/QABC1B.png
+Graphs/Novartis/QABC1C.png
+Graphs/Novartis/QABC1D.png
+Graphs/Novartis/QABD1A.png
+Graphs/Novartis/QABD1B.png
+Graphs/Novartis/QABD1C.png
+Graphs/Novartis/QABD1D.png
+Graphs/Novartis/QABE1A.png
+Graphs/Novartis/QABE1B.png
+Graphs/Novartis/QABE1D.png
+Graphs/Novartis/QABF1A.png
+Graphs/Novartis/QABF1B.png
+Graphs/Novartis/QABF1C.png
+Graphs/Novartis/QABF1D.png
+Graphs/Novartis/QABF1E.png
+Graphs/Novartis/QACA1A.png
+Graphs/Novartis/QACA1B.png
+Graphs/Novartis/QACA1C.png
+Graphs/Novartis/QACA1D.png
+Graphs/Novartis/QACB1A.png
+Graphs/Novartis/QACB1B.png
+Graphs/Novartis/QACB1C.png
+Graphs/Novartis/QACB1D.png
+Graphs/Novartis/QACC1A.png
+Graphs/Novartis/QACC1B.png
+Graphs/Novartis/QACC1C.png
+Graphs/Novartis/QACC1D.png
+Graphs/Novartis/QACD1A.png
+Graphs/Novartis/QACD1B.png
+Graphs/Novartis/QACD1C.png
+Graphs/Novartis/QACD1D.png
+Graphs/Novartis/QACE1A.png
+Graphs/Novartis/QACE1B.png
+Graphs/Novartis/QACE1C.png
+Graphs/Novartis/QACE1D.png
+Graphs/Novartis/QACE1E.png
+Graphs/Novartis/QACF1A.png
+Graphs/Novartis/QACF1B.png
+Graphs/Novartis/QACF1C.png
+Graphs/Novartis/QACF1D.png
+Graphs/Novartis/QACF1E.png
+Graphs/VARMAX/VARMAX-J011701.png
+Graphs/VARMAX/VARMAX-J011702.png
+Graphs/VARMAX/VARMAX-J011703.png
+Graphs/VARMAX/VARMAX-J011707.png
+Graphs/VARMAX/VARMAX-J011708.png
+Graphs/VARMAX/VARMAX-J011709.png
+Graphs/VARMAX/VARMAX-J021706.png
+Graphs/VARMAX/VARMAX-J021713.png
+Graphs/VARMAX/VARMAX-J021714.png
+Graphs/VARMAX/VARMAX-J021716.png
+Graphs/VARMAX/VARMAX-J021717.png
+Graphs/VARMAX/VARMAX-J021718.png
+Graphs/VARMAX/VARMAX-J031715.png
+Graphs/VARMAX/VARMAX-J031719.png
+Graphs/VARMAX/VARMAX-J031720.png
+Graphs/VARMAX/VARMAX-J031721.png
+Graphs/VARMAX/VARMAX-J031722.png
+Graphs/VARMAX/VARMAX-J031723.png
+Graphs/VARMAX/VARMAX-J031725.png
+Graphs/VARMAX/VARMAX-J031727.png
+Graphs/VARMAX/VARMAX-J041728.png
+Graphs/VARMAX/VARMAX-J041729.png
+Graphs/VARMAX/VARMAX-J041730.png
+Graphs/VARMAX/VARMAX-J041734.png
+Graphs/VARMAX/VARMAX-J041736.png
+Graphs/VARMAX/VARMAX-J041740.png
+Graphs/VARMAX/VARMAX-J051724.png
+Graphs/VARMAX/VARMAX-J051735.png
+Graphs/VARMAX/VARMAX-J051737.png
+Graphs/VARMAX/VARMAX-J051741.png
+Graphs/VARMAX/VARMAX-J051742.png
+Graphs/VARMAX/VARMAX-J051743.png
+Graphs/VARMAX/VARMAX-J051744.png
+Graphs/VARMAX/VARMAX-J061747.png
+Graphs/VARMAX/VARMAX-J061748.png
+Graphs/VARMAX/VARMAX-J061752.png
+Graphs/VARMAX/VARMAX-J061753.png
+Graphs/VARMAX/VARMAX-J061756.png
+Graphs/VARMAX/VARMAX-J061758.png
+Graphs/VARMAX/VARMAX-J061761.png
+Graphs/VARMAX/VARMAX-J071733.png
+Graphs/VARMAX/VARMAX-J071749.png
+Graphs/VARMAX/VARMAX-J071751.png
+Graphs/VARMAX/VARMAX-J071755.png
+Graphs/VARMAX/VARMAX-J071757.png
+Graphs/VARMAX/VARMAX-J071760.png
+Graphs/Xofigo/XE01G005-Exp.png
+Graphs/Xofigo/XE01G020-Exp.png
+Graphs/Xofigo/XE01G031-Exp.png
+Graphs/Xofigo/XE01G049-Exp.png
+Graphs/Xofigo/XE01G060-Exp.png
+Graphs/Xofigo/XE01G076-Exp.png
+Graphs/Xofigo/XE01G085-Exp.png
+Graphs/Xofigo/XE01G089-Exp.png
+Graphs/Xofigo/XE01G102-Exp.png
+Graphs/Xofigo/XE01G108-Exp.png
+Graphs/Xofigo/XE02G010-Exp.png
+Graphs/Xofigo/XE02G011-Exp.png
+Graphs/Xofigo/XE02G035-Exp.png
+Graphs/Xofigo/XE02G036-Exp.png
+Graphs/Xofigo/XE02G064-Exp.png
+Graphs/Xofigo/XE02G066-Exp.png
+Graphs/Xofigo/XE02G083-Exp.png
+Graphs/Xofigo/XE02G084-Exp.png
+Graphs/Xofigo/XE02G097-Exp.png
+Graphs/Xofigo/XE03G002-Exp.png
+Graphs/Xofigo/XE03G012-Exp.png
+Graphs/Xofigo/XE03G044-Exp.png
+Graphs/Xofigo/XE03G054-Exp.png
+Graphs/Xofigo/XE03G055-Exp.png
+Graphs/Xofigo/XE03G056-Exp.png
+Graphs/Xofigo/XE03G061-Exp.png
+Graphs/Xofigo/XE03G079-Exp.png
+Graphs/Xofigo/XE03G095-Exp.png
+Graphs/Xofigo/XE03G104-Exp.png
+Graphs/Xofigo/XE04G006-Exp.png
+Graphs/Xofigo/XE04G013-Exp.png
+Graphs/Xofigo/XE04G014-Exp.png
+Graphs/Xofigo/XE04G015-Exp.png
+Graphs/Xofigo/XE04G026-Exp.png
+Graphs/Xofigo/XE04G034-Exp.png
+Graphs/Xofigo/XE04G043-Exp.png
+Graphs/Xofigo/XE04G088-Exp.png
+Graphs/Xofigo/XE04G096-Exp.png
+Graphs/Xofigo/XE04G109-Exp.png
+Graphs/Xofigo/XE06G003-Exp.png
+Graphs/Xofigo/XE06G017-Exp.png
+Graphs/Xofigo/XE06G018-Exp.png
+Graphs/Xofigo/XE06G021-Exp.png
+Graphs/Xofigo/XE06G025-Exp.png
+Graphs/Xofigo/XE06G029-Exp.png
+Graphs/Xofigo/XE06G063-Exp.png
+Graphs/Xofigo/XE06G094-Exp.png
+Graphs/Xofigo/XE06G098-Exp.png
+Graphs/Xofigo/XE06G106-Exp.png
+Graphs/Xofigo/XW01G008-Exp.png
+Graphs/Xofigo/XW01G040-Exp.png
+Graphs/Xofigo/XW01G047-Exp.png
+Graphs/Xofigo/XW01G048-Exp.png
+Graphs/Xofigo/XW01G052-Exp.png
+Graphs/Xofigo/XW01G069-Exp.png
+Graphs/Xofigo/XW01G090-Exp.png
+Graphs/Xofigo/XW01G093-Exp.png
+Graphs/Xofigo/XW01G099-Exp.png
+Graphs/Xofigo/XW01G105-Exp.png
+Graphs/Xofigo/XW02G024-Exp.png
+Graphs/Xofigo/XW02G028-Exp.png
+Graphs/Xofigo/XW02G033-Exp.png
+Graphs/Xofigo/XW02G041-Exp.png
+Graphs/Xofigo/XW02G050-Exp.png
+Graphs/Xofigo/XW02G051-Exp.png
+Graphs/Xofigo/XW02G058-Exp.png
+Graphs/Xofigo/XW02G100-Exp.png
+Graphs/Xofigo/XW02G103-Exp.png
+Graphs/Xofigo/XW03G027-Exp.png
+Graphs/Xofigo/XW03G065-Exp.png
+Graphs/Xofigo/XW03G067-Exp.png
+Graphs/Xofigo/XW03G070-Exp.png
+Graphs/Xofigo/XW03G073-Exp.png
+Graphs/Xofigo/XW03G074-Exp.png
+Graphs/Xofigo/XW03G077-Exp.png
+Graphs/Xofigo/XW03G080-Exp.png
+Graphs/Xofigo/XW03G107-Exp.png
+Graphs/Xofigo/XW04G022-Exp.png
+Graphs/Xofigo/XW04G030-Exp.png
+Graphs/Xofigo/XW04G038-Exp.png
+Graphs/Xofigo/XW04G039-Exp.png
+Graphs/Xofigo/XW04G042-Exp.png
+Graphs/Xofigo/XW04G053-Exp.png
+Graphs/Xofigo/XW04G057-Exp.png
+Graphs/Xofigo/XW04G071-Exp.png
+Graphs/Xofigo/XW04G092-Exp.png
+Graphs/Xofigo/XW05G001-Exp.png
+Graphs/Xofigo/XW05G007-Exp.png
+Graphs/Xofigo/XW05G023-Exp.png
+Graphs/Xofigo/XW05G045-Exp.png
+Graphs/Xofigo/XW05G046-Exp.png
+Graphs/Xofigo/XW05G062-Exp.png
+Graphs/Xofigo/XW05G072-Exp.png
+Graphs/Xofigo/XW05G086-Exp.png
+Graphs/Xofigo/XW05G091-Exp.png
+Graphs/Xofigo/XW05G101-Exp.png
+Graphs/Xofigo/XW032817-Exp.png
+Development/.vscode/settings.json
